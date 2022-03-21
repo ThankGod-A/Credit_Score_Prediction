@@ -2,9 +2,10 @@
 
 #### Goal
 
-The objective of this case study is to predict and analyze credit integrity of individuals and corporation. The insight garnered will come in-handy in our prediction.
+The objective is to predict and analyze the credit data to determine the credit worthiness of a person or a small, owner-operated business of individuals and corporation.
 
-Analyzing factors to be considered before issuing or giving out loans. The probability to default or repay the loan.
+To help decide whether to extend or deny credit.
+
 
 #### Features
 
